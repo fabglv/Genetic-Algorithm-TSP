@@ -1,4 +1,4 @@
-# Genetic-Algorithm-TSP
+# genetic-algorithm-TSP
 
 This project implements a genetic algorithm to find an approximate solution to the Traveling Salesman Problem (TSP).
 
